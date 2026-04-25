@@ -13,14 +13,17 @@
 <br>
 ## 👨‍💻 About Me
 
-🚀 **Passionate Software Engineer** specializing in fullstack development with a focus on building scalable, efficient solutions.
+🚀 **Aspiring Full-Stack Developer** | **BIT Undergraduate at University of Colombo School of Computing (UCSC)**
+I am a passionate Software Engineering student specializing in building scalable, enterprise-level solutions. Currently, I'm focusing on mastering backend architectures and modern frontend frameworks to create seamless user experiences.
 <br><br>
 
-- 🌱 Currently pursuing **Software Engineering** and exploring cutting-edge technologies
+- 🌱 Currently pursuing **Bachelor of Information Technology** at **UCSC** & studying at **ICET**.
 - 💼 Building real-world applications with modern tech stacks
+- 🛠️ Expertise in **Java (Spring Boot)**, **Angular**, and **MySQL**
+- 🏗️ Deeply interested in **Layered Architecture**, **Design Patterns**, and **Cloud Computing (AWS)**
 - 🎯 Focused on **clean code**, **best practices**, and **continuous learning**
-- 💬 Let's discuss **Java, Python, JavaScript, React, Node.js**, and **System Design**
-- 📫 Reach me at ****
+- 💬 Let's discuss **Java, Spring, Angular, System Design, or Agentic AI**.
+- 📫 Reach me at: **malithdulsara2001@gmail.com**
 - ⚡Fun fact: **I debug code faster than I debug my life! 😄**
 
 <br><br>
