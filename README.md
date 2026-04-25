@@ -1,115 +1,105 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Malith" alt="Typing SVG" />
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descAlign=50"/>
-<br>
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Malith+Dulsara;Fullstack+Developer+%F0%9F%92%BB;UCSC+BIT+Undergraduate+🎓;Code+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </div>
-<br>
-  
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%">
+</p>
+
 ## 👨‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYwdWp3eGg0eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+
 🚀 **Aspiring Full-Stack Developer** | **BIT Undergraduate at University of Colombo School of Computing (UCSC)**
+
 I am a passionate Software Engineering student specializing in building scalable, enterprise-level solutions. Currently, I'm focusing on mastering backend architectures and modern frontend frameworks to create seamless user experiences.
-<br><br>
 
-- 🌱 Currently pursuing **Bachelor of Information Technology** at **UCSC** & studying at **ICET**.
-- 💼 Building real-world applications with modern tech stacks
-- 🛠️ Expertise in **Java (Spring Boot)**, **Angular**, and **MySQL**
-- 🏗️ Deeply interested in **Layered Architecture**, **Design Patterns**, and **Cloud Computing (AWS)**
-- 🎯 Focused on **clean code**, **best practices**, and **continuous learning**
-- 💬 Let's discuss **Java, Spring, Angular, System Design, or Agentic AI**.
-- 📫 Reach me at: **malithdulsara2001@gmail.com**
-- ⚡Fun fact: **I debug code faster than I debug my life! 😄**
+---
 
-<br><br>
+* 🌱 Currently pursuing **Bachelor of Information Technology** at **UCSC** & studying at **ICET**.
+* 💼 Building real-world applications with modern tech stacks.
+* 🛠️ Expertise in **Java (Spring Boot)**, **Angular**, and **MySQL**.
+* 🏗️ Deeply interested in **Layered Architecture**, **Design Patterns**, and **Cloud Computing (AWS)**.
+* 🎯 Focused on **clean code**, **best practices**, and **continuous learning**.
+* 💬 Let's discuss **Java, Spring, Angular, System Design, or Agentic AI**.
+* ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
+
+<br>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="start">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+### 💻 Languages
+[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,python&perline=20)](https://skillicons.dev)
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,materialui" />
+### 🎨 Frontend & UI
+[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular&perline=20)](https://skillicons.dev)
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi" />
+### 🚀 Backend & Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate&perline=20)](https://skillicons.dev)
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,supabase" />
+### ⚙️ Build & Data
+[![Build & Data](https://skillicons.dev/icons?i=maven,npm,mysql,mongodb,postgres&perline=20)](https://skillicons.dev)
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,nginx" />
+### 🧰 Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,figma&perline=20)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=malithdulsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=malithdulsara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-</div>
+<details open>
+  <summary><b>Click to Expand Analytics 📈</b></summary>
+  <br>
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=malithdulsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=malithdulsara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  </div>
+  <br>
+  <div align="center">
+    <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithdulsara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
+  </div>
+</details>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithdulsara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
-</div>
+<br>
+
+<details>
+  <summary><b>Click to View Contribution Graph 🌊</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=malithdulsara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" />
+  </div>
+</details>
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malithdulsara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" />
-</div>
-
----
-
-<div id="user-content-toc">
-  <ul align="center">
-    
-## Connect With Me🤝
-
-<div
-  </ul>
+<h2 align="center">Connect With Me 🤝</h2>
 
 <p align="center">
-	<a href="https://wa.me/+94769745727"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://web.facebook.com/mathiya44/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/matheesha_pr/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:malithdulsara2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/+94779209018"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/malith-dulsara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://web.facebook.com/dulsaramunasinghe/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/malithdulsara/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-</div>
-
----
-
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   
-  ### ⭐ Thanks for visiting my profile! ⭐
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer"/>
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
+### 💭 *"Every line of code I write teaches me something new."* ✨
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+**Thanks for visiting my profile! Let’s grow and code together! 🚀**
+
+⭐ **If you find my journey inspiring, star my repositories and connect!** ⭐
+
 </div>
