@@ -53,7 +53,7 @@ I am a passionate Software Engineering student specializing in building scalable
 
 ## 📊 GitHub Insights
 
-<details open>
+<details>
   <summary><b>Click to Expand Analytics 📈</b></summary>
   <br>
   <div align="center">
